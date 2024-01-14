@@ -1,0 +1,14 @@
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\bin\Debug\net8.0\LeCompteEstBon.exe
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\bin\Debug\net8.0\LeCompteEstBon.deps.json
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\bin\Debug\net8.0\LeCompteEstBon.runtimeconfig.json
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\bin\Debug\net8.0\LeCompteEstBon.dll
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\bin\Debug\net8.0\LeCompteEstBon.pdb
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\net8.0\LeCompteEstBon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\net8.0\LeCompteEstBon.AssemblyInfoInputs.cache
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\net8.0\LeCompteEstBon.AssemblyInfo.cs
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\net8.0\LeCompteEstBon.csproj.CoreCompileInputs.cache
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\net8.0\LeCompteEstBon.dll
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\net8.0\refint\LeCompteEstBon.dll
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\net8.0\LeCompteEstBon.pdb
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\net8.0\LeCompteEstBon.genruntimeconfig.cache
+C:\Users\SoniaPC\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\net8.0\ref\LeCompteEstBon.dll

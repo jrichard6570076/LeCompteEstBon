@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SoniaPC\\source\\repos\\LeCompteEstBon\\LeCompteEstBon\\LeCompteEstBon.csproj",
+      "projectUniqueName": "D:\\Git\\LeCompteEstBon\\LeCompteEstBon\\LeCompteEstBon.csproj",
       "projectName": "LeCompteEstBon",
-      "projectPath": "C:\\Users\\SoniaPC\\source\\repos\\LeCompteEstBon\\LeCompteEstBon\\LeCompteEstBon.csproj",
+      "projectPath": "D:\\Git\\LeCompteEstBon\\LeCompteEstBon\\LeCompteEstBon.csproj",
       "packagesPath": "C:\\Users\\SoniaPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SoniaPC\\source\\repos\\LeCompteEstBon\\LeCompteEstBon\\obj\\",
+      "outputPath": "D:\\Git\\LeCompteEstBon\\LeCompteEstBon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SoniaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
